@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f1d53fdf03d8fa9c900c3f53fe71b7ea2eca35d5.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_335b00ba54e12a515694418c744e9050e019e0ce.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_81a3379b1a56c3510919e2f8947ad4e6e08f6ff7.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9563c909c2cd1edbfec3057f0d18ec46e8360df1.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f479aac2b68fa8c258017ca2d6310a9fdebaf983.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f6a7700ec80622a4d207d6889d384a0af1914e07.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_4d9db7cd96fdd06654356b4e0cd7ab2ad8bc7e13.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/gson-2.6.2_a1f982a1ef31b55d9e23a89ed7fda26bf76ec3a8.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_438b5b56401cab71c36d132473737147fd924744.jar" />
+    </item>
+    <item
+        jar="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/flinbor/AndroidStudioProjects/Github Repositories Comments Loader/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_767dada661b0e59c2c89765bea69e8a2e1c3312f.jar" />
+    </item>
+
+</items>
